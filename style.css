@@ -1,0 +1,11 @@
+
+h1 {
+    width:100%;
+    color: white;
+    text-align: center;
+    background-color: aqua;
+};
+.card{
+    width: 288px;
+    background-color: lightgray;
+}
